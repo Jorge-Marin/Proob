@@ -1,5 +1,5 @@
 body{
-    background-color: #2C2C2C;
+    background-color: white;
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
 }
@@ -11,6 +11,7 @@ body{
   margin: 120px auto;
   border-radius: 6px;
   padding: 30px 60px 30px 60px;
+  border: 0.4px solid #80808017;
 }
 
 .logotype-client{
